@@ -16,7 +16,18 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
-      <Filter>Файлы заголовков</Filter>
+      <Filter>Исходные файлы</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="lib.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="original.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="final.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
   </ItemGroup>
 </Project>
