@@ -19,4 +19,15 @@
       <Filter>Файлы заголовков</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="BadWords.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="original.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="final.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
