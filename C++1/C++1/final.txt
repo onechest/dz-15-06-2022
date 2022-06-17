@@ -1,5 +1,5 @@
-Privеt, mеnya zovut Zhеnya
-etiket
-Etot kod mozhеt pisatь translitom
-S russkogo na anglijskij
-Ili s anglijskogo na russkij
+Привет, меня зовут Женя
+Этот код может писать транслитом
+С русского на английский
+Или с английского на русский
+
